@@ -1,4 +1,4 @@
-/* body {
+body {
     margin: 0;
     height: 100vh;
     display: flex;
@@ -7,7 +7,7 @@
     background-color: #000;
     overflow: hidden;
 
-} */
+}
 
 /* .container {
     font-size: 10px;
