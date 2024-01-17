@@ -16,7 +16,7 @@ body {
     position: relative;
 }
 
-/* .sun {
+.sun {
     position: absolute;
     top: 15em;
     left: 15em;
@@ -25,7 +25,7 @@ body {
     background-color: yellow;
     border-radius: 50%;
     box-shadow: 0 0 3em white;
-} */
+}
 
 /* .earth,.moon {
     position: absolute;
